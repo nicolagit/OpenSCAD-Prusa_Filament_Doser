@@ -30,5 +30,5 @@ module clip(frameheight, framethickness, clipthickness) {
 }
 
 
-bow(150, 2, 1, 90);
-clip(50, 5, 2);
+bow(150, 2.5, 2.5, 70);
+clip(15, 5, 2);
